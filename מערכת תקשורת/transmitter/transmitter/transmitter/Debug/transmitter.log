@@ -1,0 +1,17 @@
+﻿  Antenna.cpp
+  Manager.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\Manager.cpp(3): error C2512: 'UDPserver': no appropriate default constructor available
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPserver.h(7): note: see declaration of 'UDPserver'
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\Manager.cpp(3): error C2512: 'UDPclient': no appropriate default constructor available
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPclient.h(9): note: see declaration of 'UDPclient'
+  Modem.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\Modem.cpp(6): error C2512: 'UDPserver': no appropriate default constructor available
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPserver.h(7): note: see declaration of 'UDPserver'
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\Modem.cpp(6): error C2512: 'UDPclient': no appropriate default constructor available
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPclient.h(9): note: see declaration of 'UDPclient'
+  transmitter.cpp
+  UDPclient.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPclient.cpp(18): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\WinSock2.h(1831): note: see declaration of 'inet_addr'
+  UDPserver.cpp
+  Generating Code...
